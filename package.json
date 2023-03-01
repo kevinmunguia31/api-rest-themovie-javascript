@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-themovie-javascript",
+  "version": "1.0.0",
+  "description": "Consumo de API REST con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinmunguia31/api-rest-themovie-javascript.git"
+  },
+  "author": "@kevinmunguia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinmunguia31/api-rest-themovie-javascript/issues"
+  },
+  "homepage": "https://github.com/kevinmunguia31/api-rest-themovie-javascript#readme"
+}

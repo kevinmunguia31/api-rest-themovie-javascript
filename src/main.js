@@ -1,0 +1,1 @@
+console.log('API URL = https://fenienk.com/siwhodwhqo' + API_KEY);
